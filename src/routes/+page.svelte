@@ -94,6 +94,6 @@ const apiUrl = "http://ec2-52-47-136-58.eu-west-3.compute.amazonaws.com:8080/ale
 </div>
 <div class="mt-8 p-4 bg-gray-200 text-center">
 <!--    <img src="path/to/your/logo.png" alt="Company Logo" class="w-16 h-16 mx-auto mb-4" />-->
-    <p class="text-gray-600 mb-2">Contact us at: <a href="mailto:info@example.com" class="text-blue-500">info@example.com</a></p>
+    <p class="text-gray-600 mb-2">Contact us at: <a href="test:info@example.com" class="text-blue-500">info@example.com</a></p>
     <p class="text-sm">We offer a range of services to meet your needs. Contact us for more information.</p>
 </div>
