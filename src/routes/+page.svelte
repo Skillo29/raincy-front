@@ -6,7 +6,7 @@
     const cities = ["New York", "San Francisco", "London", "Tokyo"];
     const services = ["Web Development", "Graphic Design", "Digital Marketing", "App Development"];
 
-const apiUrl = "http://ec2-52-47-136-58.eu-west-3.compute.amazonaws.com:8080/alert"
+const apiUrl = "https://flick-back.com/alert"
     async function createAlert() {
     const postData = {
             mail: email,
